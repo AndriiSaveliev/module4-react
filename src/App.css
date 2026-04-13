@@ -1,0 +1,25 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #f3f4f6;
+}
+
+button {
+    background-color:lightcoral;
+    margin-top: 15px;
+    padding: 10px 16px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+
+
